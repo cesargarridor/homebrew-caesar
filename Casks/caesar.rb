@@ -1,6 +1,6 @@
 cask "caesar" do
-  version "1.0.9"
-  sha256 "3c3f47f0d211b71b597b73bdc8800495520d967243221a61b1f7816350f54e16"
+  version "1.0.10"
+  sha256 "49c4c780ce8a6c8018e7c37c7f6e18102eca995fabfb40b79ee16a6a0a06a616"
 
   url "https://github.com/cesargarridor/caesar/releases/download/v#{version}/Caesar_#{version}_universal.dmg"
   name "Caesar"
